@@ -1,2 +1,0 @@
-git 
-this is <i class="fa fa-map-pin" aria-hidden="true"></i>
